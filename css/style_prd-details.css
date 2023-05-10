@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+  gap: 30px;
+  margin-top: 35px;
+}
+
+.container .product_details_image {
+  border: 1px solid yellowgreen;
+}
+
+.pic {
+  width: 350px;
+  height: 430px;
+}
+
+.detail {
+  font-size: 18px;
+}
+
+.cart {
+  background-color: #e3c01c;
+}
+
+.categories {
+  position: relative;
+  overflow: hidden;
+}
+
+.title-cart {
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.picture {
+  width: 200px;
+  height: 220px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.col-md-3 {
+  margin: 0 auto;
+}
+
+table,
+td,
+th {
+  border: 1px solid;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tieude {
+  text-align: center;
+}
